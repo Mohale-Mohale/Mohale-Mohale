@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohale Peter Mohale</h1>
 <h3 align="center">A passionate Cyber Security Analyst/Auditor</h3>
+As the founder of Mokoallo Cyber World, I bring a diverse professional background and foundational training in cybersecurity. With experience as an electrician, I possess a technical understanding of electrical systems, allowing me to identify vulnerabilities associated with the critical electrical infrastructure. My expertise in critical infrastructure protection enhances my awareness of the importance of safeguarding these systems from cyber attacks, ensuring their reliable and secure operation. As an accountant, I prioritize safeguarding financial data and implementing controls to protect sensitive information. Furthermore, my role as a Supply Chain Specialist has heightened my awareness of supply chain risks and enabled me to enhance organizational security. Additionally, my experience as a Registry Officer instills a meticulous attention to detail, aligning seamlessly with the demands of cybersecurity. Through continuous learning, I stay updated on industry trends, equipping me with the tools to combat emerging cyber threats. With my passion for cybersecurity, I am dedicated to safeguarding critical information assets and delivering robust solutions for organizations.
+<br></br>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohale-mohale&label=Profile%20views&color=0e75b6&style=flat" alt="mohale-mohale" /> </p>
 
